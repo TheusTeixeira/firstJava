@@ -11,6 +11,7 @@ public class Main {
             System.out.println("1- Verificar cadeiras");
             System.out.println("2- Reservar cadeiras");
             System.out.println("3- Sair");
+            System.out.println("S");
             int opcao = scanner.nextInt();
 
 
